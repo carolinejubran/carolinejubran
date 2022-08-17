@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolinejubran
 - 👀 I’m interested in Operating Systems, Kernel Drivers, Firmware and Security.
-- 🌱 I’m currently learning Reverse Engineering, Firmware (at Work) and I have done the Operating System Enginerg (MIT course).
+- 🌱 I’m currently learning Reverse Engineering, Firmware (at Work) and I have done the Operating System Engineering (MIT course).
 - 💞️ I’m looking to collaborate on projcets that fit my interests.
 - 📫 How to reach me by e-mail: jubran.caroline@gmail.com
 
